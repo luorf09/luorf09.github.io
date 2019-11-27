@@ -4,5 +4,5 @@
         <meta charset="UTF-8">
             <title>你的应用名称</title>
     </head>
-    <a style="text-align:center" href="itms-services:///?action=download-manifest&url=https://github.com/luorf09/bika_ota/raw/master/Bika%20CG.plist">点我下载</a>
+    <a style="text-align:center" href="itms-services:///?action=download-manifest&url=https://github.com/luorf09/bika_ota/raw/master/BikaCG.plist" id="text">点我下载</a>
 </html>
